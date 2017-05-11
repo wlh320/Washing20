@@ -15,7 +15,7 @@ def is_ready(mach_no):
 
 def get_time(mach_no):
     """获取剩余时间"""
-    root_url = "http://www.iskyct.com/www/Uwash/shopsearch/shopdetail.jsp?SHOP_CD=394&YuyueFlg=0"
+    root_url = "http://www.iskyct.com/www/Uwash/shopsearch/shopdetail.jsp?SHOP_CD=629&YuyueFlg=0"
     content = requests.get(root_url).text
     pat_str = '<span><b>' + str(mach_no) + r'号</b>\s*<br>(\d\d:\d\d)'
     pattern = re.compile(pat_str)
