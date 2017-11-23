@@ -1,5 +1,13 @@
-# washing20
+# [DEPRECATED!] washing20
 A script to watch whether washing machine in dorm #20 is available.
+
+## **已废弃!**
+
+洗衣机更新，脚本已经无法使用
+
+现在的系统依靠于微信，正在研究中......
+
+或许这个项目已经没有存在的必要了
 
 ## Introdution
 
