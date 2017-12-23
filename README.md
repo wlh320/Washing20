@@ -1,8 +1,6 @@
 # washing20
 A script to watch whether washing machine in dorm #20 is available.
 
-洗衣机更新，脚本已经无法使用
-
 ## Introdution
 
 - 宿舍楼的洗衣房从一卡通变成了在线支付，对此表示实在无法理解
