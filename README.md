@@ -1,13 +1,7 @@
-# [DEPRECATED!] washing20
+# washing20
 A script to watch whether washing machine in dorm #20 is available.
 
-## **已废弃!**
-
 洗衣机更新，脚本已经无法使用
-
-现在的系统依靠于微信，正在研究中......
-
-或许这个项目已经没有存在的必要了
 
 ## Introdution
 
@@ -18,3 +12,11 @@ A script to watch whether washing machine in dorm #20 is available.
 - 暂时只做了查询,其他功能有需要再研究（好像可以预订）
 
 _BTW，感觉这网站代码很烂且服务器性能极差_
+
+## Update 2017/12/23
+
+- 这学期又换了一家公司，还是要扫码洗衣服，但是要安装 app 来监控洗衣机
+
+- 于是乎 fiddler 抓包 + apk 超简单逆向， 我又更新了洗衣机状态查询CLI版本，扔掉这个傻逼app吧！
+
+- 顺便说一句，理论上是支持所有这家公司的洗衣房查询，不过需要一个中文的 address 变量，黄渡理工的洗衣机命名方式应该是一样的，改一下楼号即可
